@@ -18,7 +18,7 @@
 - CSS Bootstrap
 - Edit Content From One Place
 
-### <h1 align="center">[Live Demo](https://shrawaanthapa.github.io/Product-Page-Card-/)</h1>
+### <h1 align="center">[Live Demo](https://shrawaanthapa.github.io/Product-Cards-Template/)</h1>
 ### <h1 align="center">[YouTube Preview](https://youtu.be/wvVcWgc83FE)</h1>
 
 ### Join for Tutorial Video
